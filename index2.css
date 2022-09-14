@@ -1,0 +1,45 @@
+.container {
+	min-width: 50%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	height: 500px;
+	
+	
+}
+
+.titulo-principal {
+	font-family: 'Ms Madi', cursive;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 70px;
+
+	
+}
+
+body {
+	background-color: black!important;
+}
+
+.btn {
+	
+	cursor: pointer;
+	-webkit-box-shadow:0px 0px 105px 45px rgba(45,255,196,0.9);
+	-moz-box-shadow: 0px 0px 105px 45px rgba(45,255,196,0.9);
+	box-shadow: 0px 0px 105px 45px rgba(45,255,196,0.9);	
+}
+
+.modal-body,
+.modal-title {
+	text-align: center;
+	font-family: 'Ms Madi', cursive;
+	font-size: 50px;
+	
+}
+
+.modal-title {
+	font-family: 'Ms Madi', cursive;
+	font-size: 40px;
+}
